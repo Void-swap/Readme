@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @voidswapp
-- 🌱 currently UPGRADING JAVA & JAVA-SCRIPT SKILLS
-- 💞️ open to COLLAB on FRONTEND WEBSITES / CODING PROBLEMS
+- 🌱 currently UPGRADING JAVA & Development SKILLS
+- 💞️ open to COLLAB on FRONTEND Things / CODING PROBLEMS
 - 📫 when i'm not battling BUGs can find me on ig @void__swap
 - CAFFINE AND CODE☕
 
